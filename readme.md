@@ -18,6 +18,7 @@ Proyek ini adalah sistem pengambilan nomor antrian yang dibuat menggunakan PHP, 
 - HTML/CSS
 
 ## Struktur Direktori
+<code>
 antrian/
 │
 ├── admin/
@@ -30,7 +31,7 @@ antrian/
 │ └── index.php
 ├── db.php
 └── index.php
-
+<code>
 
 ## Langkah Instalasi
 
